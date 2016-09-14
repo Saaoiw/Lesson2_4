@@ -28,7 +28,7 @@ class Calculation {
 
 }
 
-public class Laboratory2_4_2 {
+public class Laboratory2_4_2  {
     public static void main(String[] args) throws Exception {
         int[] array1, array2;
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

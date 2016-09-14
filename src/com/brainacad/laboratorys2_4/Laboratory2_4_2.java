@@ -21,7 +21,7 @@ class Calculation {
         for (int i = 0; i < array.length; i++) {
             System.out.print("Please enter the element number " + i+1 + ":");
             array[i] = Integer.parseInt(bufferedReader.readLine());
-            System.out.println();
+            System.out.println() ;
         }
         return array;
     }

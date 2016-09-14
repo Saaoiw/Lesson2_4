@@ -18,7 +18,7 @@ class Emploee{
         this.lastName = lastName;
         this.occupation = occupation;
         this.telephone = telephone;
-        numberOfEmployees++;
+        numberOfEmployees++ ;
     }
 
     public Emploee() {
